@@ -1,4 +1,8 @@
 this is login page
 solutin kuch pata nahi
+<<<<<<< HEAD
 line added
 get out
+=======
+welcome
+>>>>>>> jack
